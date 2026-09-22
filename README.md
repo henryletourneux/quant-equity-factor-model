@@ -6,6 +6,11 @@ factors, combines the scores into a single composite ranking, constructs a
 long-only equal-weight portfolio from the top-ranked names, and backtests the
 result against the S&P 500.
 
+Companion project: [Portfolio Optimization Engine](https://github.com/henryletourneux/portfolio-optimization-engine)
+takes this model's top-ranked shortlist and solves for optimal capital
+allocation across it (min-variance, max-Sharpe, risk-parity) instead of
+equal-weighting.
+
 ## Factors
 
 - **Value** — earnings yield (1/P-E) and book-to-price, z-scored and combined.
