@@ -1,0 +1,6 @@
+factor,mean_ic,std_ic,hit_rate,n_periods,information_ratio
+momentum_z,0.058,0.2611,0.5714,35,0.2221
+quality_z,0.0103,0.2167,0.5714,35,0.0474
+composite,-0.0134,0.2154,0.4,35,-0.0623
+low_vol_z,-0.0549,0.2975,0.3143,35,-0.1847
+value_z,-0.0687,0.2159,0.4,35,-0.3182
